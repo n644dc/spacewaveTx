@@ -1,0 +1,4 @@
+baudRate=300
+packetSize=255
+freq=888400000
+channel=0
